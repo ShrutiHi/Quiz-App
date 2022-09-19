@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+
+    <string name="correct_ans">Bravo! That\'s correct!</string>
+    <string name="wrong_ans">Oops! That\'s incorrect!</string>
+
+    <string name="question_adoption">The Indian Constitution was adopted on 26th November, 1949.</string>
+    <string name="question_geography">India lies entirely in Southern Hemisphere.</string>
+    <string name="question_fruitBowl">Assam is known as the "Fruit Bowl" of India.</string>
+    <string name="question_femalePresident">Indira Gandhi was the first female head of government or Prime Minister of India.</string>
+    <string name="question_ironMan">Sardar Vallabh Bhai Patel is known as the "Iron Man" of India.</string>
+    <string name="question_currPresident">Ram Nath Kovind is the current President of India.</string>
+    <string name="question_assam">Sikkim is known as the "Land of Rising Sun".</string>
+    <string name="question_language">In India, 23 languages are spoken.</string>
+    <string name="question_richestMan">Mukesh Ambani is the richest man in India.</string>
+    <string name="question_richestWoman">Roshni Nadar Malhotra is the richest woman in India.</string>
+
+    <string name="correct_ans_is_text">Correct Answer: \n</string>
+    <string name="question_adoption_ans">The Indian Constitution was adopted on 26th November, 1949.</string>
+    <string name="question_geography_ans">India lies entirely in Northern Hemisphere above the equator.</string>
+    <string name="question_fruitBowl_ans">Himachal Pradesh is known as the "Fruit Bowl" of India.</string>
+    <string name="question_femalePresident_ans">Indira Gandhi was the first female head of government or Prime Minister of India.</string>
+    <string name="question_ironMan_ans">Sardar Vallabh Bhai Patel is known as the "Iron Man" of India.</string>
+    <string name="question_currPresident_ans">Droupdi Murmu is the current President of India.</string>
+    <string name="question_assam_ans">Arunachal Pradesh is known as the "Land of Rising Sun".</string>
+    <string name="question_language_ans">In India, 22 languages are spoken.</string>
+    <string name="question_richestMan_ans">Gautam Adani is the richest man in India.</string>
+    <string name="question_richestWoman_ans">Roshni Nadar Malhotra is the richest woman in India.</string>
+</resources>
